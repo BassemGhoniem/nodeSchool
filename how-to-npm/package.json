@@ -1,0 +1,15 @@
+{
+  "name": "@bassem/how-to-npm",
+  "version": "1.0.1-0",
+  "description": "how to npm Yay",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": "https://github.com/BassemGhoniem/nodeSchool"
+}
